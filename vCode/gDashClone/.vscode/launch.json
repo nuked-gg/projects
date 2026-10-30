@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Wave Challenge (pygame)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/game.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
